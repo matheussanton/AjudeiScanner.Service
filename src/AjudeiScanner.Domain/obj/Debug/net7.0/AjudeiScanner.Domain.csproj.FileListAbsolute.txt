@@ -1,0 +1,12 @@
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\bin\Debug\net7.0\AjudeiScanner.Domain.deps.json
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\bin\Debug\net7.0\AjudeiScanner.Domain.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\bin\Debug\net7.0\AjudeiScanner.Domain.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.csproj.AssemblyReference.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.AssemblyInfoInputs.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.AssemblyInfo.cs
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\refint\AjudeiScanner.Domain.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\AjudeiScanner.Domain.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Domain\obj\Debug\net7.0\ref\AjudeiScanner.Domain.dll

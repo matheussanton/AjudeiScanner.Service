@@ -1,0 +1,17 @@
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Infra.Dependencies.deps.json
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Infra.Dependencies.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Infra.Dependencies.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Domain.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Domain.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.csproj.AssemblyReference.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.AssemblyInfoInputs.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.AssemblyInfo.cs
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.csproj.CoreCompileInputs.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.csproj.CopyComplete
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\refint\AjudeiScanner.Infra.Dependencies.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\AjudeiScanner.Infra.Dependencies.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\obj\Debug\net7.0\ref\AjudeiScanner.Infra.Dependencies.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Infra.Data.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Dependencies\bin\Debug\net7.0\AjudeiScanner.Infra.Data.pdb

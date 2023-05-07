@@ -1,0 +1,17 @@
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.csproj.AssemblyReference.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.AssemblyInfoInputs.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.AssemblyInfo.cs
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\bin\Debug\net7.0\AjudeiScanner.Infra.Data.deps.json
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\bin\Debug\net7.0\AjudeiScanner.Infra.Data.runtimeconfig.json
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\bin\Debug\net7.0\AjudeiScanner.Infra.Data.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\bin\Debug\net7.0\AjudeiScanner.Infra.Data.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\bin\Debug\net7.0\AjudeiScanner.Domain.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\bin\Debug\net7.0\AjudeiScanner.Domain.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.csproj.CopyComplete
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\refint\AjudeiScanner.Infra.Data.dll
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.pdb
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\AjudeiScanner.Infra.Data.genruntimeconfig.cache
+C:\Dev\AjudeiScanner.Service\src\AjudeiScanner.Infra.Data\obj\Debug\net7.0\ref\AjudeiScanner.Infra.Data.dll
